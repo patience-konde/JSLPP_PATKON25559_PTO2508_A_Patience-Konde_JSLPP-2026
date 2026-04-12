@@ -142,6 +142,9 @@ kanban-board/ ├── index.html ├── styles.css ├── scripts/ │  
 - **Collaboration features** (real-time updates, shared boards)  
 
 ---
+# Presentation Link
+
+- **this my presention link [text](https://www.veed.io/view/9235bd9c-a2d9-422d-9c17-428e3cac09d6?source=editor&panel=share)
 
 ## 📄 License
 

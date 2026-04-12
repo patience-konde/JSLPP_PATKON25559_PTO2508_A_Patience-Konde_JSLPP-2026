@@ -65,9 +65,12 @@ body.dark-mode .theme-toggle-btn{
   background-color: var(--primary-color);
 }
 body.dark-mode .slider{
- color:  var(--secondary-color);
+ color:  var(--primary-btn-color);
 }
 body {
+  color: black;
+}
+body.dark-mode {
   color: white;
 }
 
