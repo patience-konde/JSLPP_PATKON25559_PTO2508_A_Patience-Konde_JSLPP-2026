@@ -1,42 +1,4 @@
-# Kanban Board App
 
-A dynamic, visually appealing Kanban board application built with modern web technologies.  
-This project focuses on polished UI/UX, responsive design, and scalable, maintainable code.
-
----
-
-## ✨ Features
-
-- **Interactive Kanban Board**
-  - Drag-and-drop task cards between columns
-  - Modal editing for task details
-  - Priority indicators (traffic-light dots: red/yellow/green)
-
-- **Modern Sidebar**
-  - Footer-pinned controls
-  - Smooth slide-out animations
-  - Theme toggle with slider-style switch
-
-- **Form Utilities**
-  - Modular validation (`formutils.js`)
-  - Clean error handling for task creation/editing
-
-- **Responsive Design**
-  - Works seamlessly across desktop and mobile
-  - Layout adapts to different screen sizes
-
----
-
-## 🛠️ Tech Stack
-
-- **Frontend:** HTML5, CSS3, JavaScript (ES6+)
-- **UI/UX:** Flexbox, CSS Grid, animations
-- **Structure:** Modular JS files (`sidebarManager.js`, `formutils.js`, etc.)
-- **Build Tools:** (Optional) Webpack/Vite for bundling
-
----
-
-## 📂 Project Structure
 # Kanban Board App
 
 A dynamic, visually appealing Kanban board application built with modern web technologies.  
